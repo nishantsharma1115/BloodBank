@@ -1,0 +1,30 @@
+<resources>
+
+    <!-- Login Sign Up theme. -->
+    <style name="LoginSignUp" parent="Theme.MaterialComponents.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="textInputStyle">@style/AppTextField</item>
+    </style>
+
+    <style name="RestActivity" parent="Theme.MaterialComponents.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimaryDark</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorPrimaryDark</item>
+        <item name="textInputStyle">@style/AppTextField</item>
+    </style>
+
+    <!-- Text Fields theme. -->
+    <style name="AppTextField" parent="Widget.MaterialComponents.TextInputLayout.OutlinedBox">
+        <item name="boxBackgroundColor">@android:color/white</item>
+    </style>
+
+    <style name="FacebookLoginButton">
+        <item name="android:background">@drawable/facebook_login</item>
+        <item name="android:text">""</item>
+    </style>
+
+</resources>

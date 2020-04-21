@@ -1,0 +1,74 @@
+<resources>
+
+    <string name="app_name">HERO\'S BLOOD</string>
+    <string name="skip"><![CDATA[Skip >>]]></string>
+    <string name="logo">logo</string>
+    <string name="logo_text">HERO\'S BLOOD</string>
+    <string name="sign_in">Sign in</string>
+    <string name="new_user">New User?</string>
+    <string name="create_an_account">Create an account</string>
+    <string name="username">username</string>
+    <string name="password">Password</string>
+    <string name="btn_login">Continue</string>
+    <string name="or">or</string>
+    <string name="login_with_facebook">login_with_facebook</string>
+    <string name="login_with_google">login_with_google</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="already_have_an_account">Already have an account?</string>
+    <string name="blood_type">Blood Type</string>
+    <string name="state">State</string>
+    <string name="city">City</string>
+    <string name="find_donor">FIND DONOR</string>
+    <string name="bloodType">Choose blood Type</string>
+    <string name="transfusionType">Choose Transfusion</string>
+    <string name="name">Name</string>
+    <string name="address">Address</string>
+    <string name="pin_code">Pin Code</string>
+    <string name="mobile_number">Mobile Number</string>
+    <string name="e_mail">E-Mail</string>
+    <string name="register_yourself">REGISTER YOURSELF</string>
+    <string name="logout">Logout</string>
+    <string name="save">SAVE</string>
+    <string name="view_profile">View Profile</string>
+    <string name="profile_picture">Profile Picture</string>
+    <string name="back">Back</string>
+    <string name="menu">Menu</string>
+    <string name="textSize">60</string>
+    <string name="kg">KG</string>
+    <string name="UserName">Nishant Sharma</string>
+    <string name="b">B+</string>
+    <string name="line">Line</string>
+    <string name="addressUser">Chandigarh University Gharuan, Mohali Punjab 140413</string>
+    <string name="edit_profile">Edit Profile</string>
+    <string name="facebook_app_id">506010993359122</string>
+    <string name="fb_login_protocol_scheme">fb506010993359122</string>
+    <string name="logo_image">Logo Image</string>
+    <string name="icon_phone">icon_phone</string>
+    <string name="edit_icon">edit_icon</string>
+    <string name="search_button">Search Button</string>
+    <string name="registration_button">Registration Button</string>
+    <string name="log_in">LOG IN</string>
+    <string name="search">Search</string>
+    <string name="apartment">Apartment</string>
+    <string name="mail_icon">Mail Icon</string>
+    <string name="phone_icon">phone_icon</string>
+
+    <string-array name="blood_type">
+        <item>Choose Blood Type</item>
+        <item>A+</item>
+        <item>A-</item>
+        <item>B+</item>
+        <item>B-</item>
+        <item>AB+</item>
+        <item>AB-</item>
+        <item>O+</item>
+        <item>O-</item>
+    </string-array>
+
+    <string-array name="transfusion_type">
+        <item>Red Blood Cells</item>
+        <item>Plasma</item>
+        <item>Platelets</item>
+    </string-array>
+
+</resources>
